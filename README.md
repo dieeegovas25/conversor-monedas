@@ -1,6 +1,6 @@
 # Conversor de Monedas
 
-Proyecto del Programa ONE - Oracle + Alura.
+Proyecto del Programa.
 
 ## Funcionalidades
 - Conversión entre monedas (USD, ARS, BRL, COP)
@@ -17,5 +17,4 @@ Proyecto del Programa ONE - Oracle + Alura.
 ## Ejecución
 Ejecuta la clase `ConversorMoneda` desde IntelliJ o línea de comandos.
 
-## Autor
-Diego Vásquez (Programa ONE)
+
